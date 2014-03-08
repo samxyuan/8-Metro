@@ -1,0 +1,39 @@
+@import url(http://fonts.googleapis.com/css?family=Alegreya+Sans+SC:700);
+@font-face
+{
+font-family: Segoe UI Light;
+src: url(Segoe_ui_light.ttf);
+}
+
+
+body {
+	margin:5%;
+	height:auto;
+	background-image:url("http://www.hdwallpapers.in/walls/golden_gate_bridge_san_fransisco-wide.jpg");
+	background-color: #fff;
+	background-repeat: no-repeat;
+}
+
+header {
+	width:100%;
+	height:100px;
+	top:0;
+	left:0;
+	display: block;
+}
+
+#name {
+	font-family: 'Segoe UI Light';
+	display: block;
+	float: left;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+
+#name h1{
+	color:#fff;
+}
+
+.tile .triple .bg-cyan {
+	color:#800080;
+}
